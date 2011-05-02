@@ -1,5 +1,5 @@
 <% scope ||= nil %>
-<dl>
+<dl <%= raw(%Q{class="#{column.css_class}"}) if column.css_class %> >
   <dt>
     <label for="<%= active_scaffold_input_options(column, scope)[:id] %>"><%= column.label %></label>
   </dt>
