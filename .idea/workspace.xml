@@ -29,7 +29,7 @@
       <file leaf-file-name="view_helpers.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/active_scaffold/helpers/view_helpers.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="147" column="9" selection-start="6908" selection-end="6908" vertical-scroll-proportion="0.4207459">
+            <state line="142" column="162" selection-start="6741" selection-end="6741" vertical-scroll-proportion="0.3100233">
               <folding />
             </state>
           </provider>
@@ -405,7 +405,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/active_scaffold/helpers/view_helpers.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="147" column="9" selection-start="6908" selection-end="6908" vertical-scroll-proportion="0.4207459">
+        <state line="142" column="162" selection-start="6741" selection-end="6741" vertical-scroll-proportion="0.3100233">
           <folding />
         </state>
       </provider>
