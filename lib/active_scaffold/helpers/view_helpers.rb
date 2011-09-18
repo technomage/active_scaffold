@@ -139,8 +139,10 @@ module ActiveScaffold
 
       def render_group_action_link(link, url_options, options, record = nil)
         if link.type == :member && !options[:authorized]
-          action_link_html(link, nil, {:class => "disabled #{link.action}#{link.html_options[:class].blank? ? '' : (' ' + link.html_options[:class])}"})
+          Rails.logger.debug "\n\n@@@@ Rendering group action #{link.action} that is disabled\n\n"
+          action_link_html(link, nil, {:class => "disabled x #{link.action}#{link.html_options[:class].blank? ? '' : (' ' + link.html_options[:class])}"})
         else
+          Rails.logger.debug "\n\n@@@@ Rendering enabled action #{link.action}\n\n"
           render_action_link(link, url_options, record)
         end
       end
