@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fcaa0d5e-c561-4c23-b5c1-70fe4f94f8b3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/active_scaffold/helpers/view_helpers.rb" afterPath="$PROJECT_DIR$/lib/active_scaffold/helpers/view_helpers.rb" />
     </list>
     <ignored path="active_scaffold.iws" />
@@ -29,7 +28,7 @@
       <file leaf-file-name="view_helpers.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/active_scaffold/helpers/view_helpers.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="142" column="162" selection-start="6741" selection-end="6741" vertical-scroll-proportion="0.3100233">
+            <state line="142" column="174" selection-start="6753" selection-end="6753" vertical-scroll-proportion="0.3100233">
               <folding />
             </state>
           </provider>
@@ -405,7 +404,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/active_scaffold/helpers/view_helpers.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="142" column="162" selection-start="6741" selection-end="6741" vertical-scroll-proportion="0.3100233">
+        <state line="142" column="174" selection-start="6753" selection-end="6753" vertical-scroll-proportion="0.3100233">
           <folding />
         </state>
       </provider>
